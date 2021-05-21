@@ -18,3 +18,5 @@ https://trello.com/b/tsoysB96/back-end
 * Lucas Nobrega: https://github.com/LucasNob
 * Matheus Jacob: https://github.com/Matheus-jacobb
 * Pablo Henrique: https://github.com/Pablo-monfre
+# Assista ao preview
+* https://www.youtube.com/watch?v=nbnqBQvK-Ic
